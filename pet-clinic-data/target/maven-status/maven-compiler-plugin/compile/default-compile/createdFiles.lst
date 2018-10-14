@@ -1,0 +1,5 @@
+com\aravindan\petclinic\model\Pet.class
+com\aravindan\petclinic\model\Person.class
+com\aravindan\petclinic\model\Owner.class
+com\aravindan\petclinic\model\PetType.class
+com\aravindan\petclinic\model\Vet.class
