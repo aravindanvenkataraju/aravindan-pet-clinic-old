@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.aravindan.petclinic.AravindanPetClinicApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.969 s - in com.aravindan.petclinic.AravindanPetClinicApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.005 s - in com.aravindan.petclinic.AravindanPetClinicApplicationTests
