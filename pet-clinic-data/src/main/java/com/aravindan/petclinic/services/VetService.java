@@ -4,11 +4,6 @@ import java.util.Set;
 
 import com.aravindan.petclinic.model.Vet;
 
-public interface VetService {
-	
-	Vet findById(Long id);
+public interface VetService extends CrudService<Vet, Long>{
 	Vet findByLastName(String lastName);
-	Vet save(Vet owner);
-	Set<Vet> findAll();
-
 }
