@@ -4,6 +4,10 @@ import java.io.Serializable;
 
 public class BaseEntity implements Serializable {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -3478363465930329513L;
 	private Long id;
 
 	public Long getId() {

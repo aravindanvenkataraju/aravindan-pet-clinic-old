@@ -2,6 +2,10 @@ package com.aravindan.petclinic.model;
 
 public class Person extends BaseEntity{
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -1552951972470871565L;
 	private String firstName;
 	private String lastName;
 	
